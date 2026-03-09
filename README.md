@@ -1,4 +1,3 @@
-```md
 # Friends List API with JWT Authentication
 
 [![Node.js](https://img.shields.io/badge/Node.js-18+-green.svg)](https://nodejs.org/)
