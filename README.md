@@ -44,7 +44,7 @@ nodejs_PracticeProject_AuthUserMgmt/
    ```bash
    git clone <repository-url>
    cd nodejs_PracticeProject_AuthUserMgmt
-````
+   ```
 
 2. Install dependencies
 
